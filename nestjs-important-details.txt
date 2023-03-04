@@ -1,0 +1,15 @@
+
+
+
+==>  pipes:
+ --> client jyare request mokle tyare query sathe parameter pan mokle che.
+      and koi var parameter wrong mokal vathi aapdu server crash thay jay che or koi 
+      response aavto nathi...
+
+ --> aa issue ne solve karva mate pipe no use thay che..
+
+ --> pipe ae transformer kam kre che...je ak thi biji ide data ne tranforn kare che..
+  
+ --> pipe ne server karta pehla aetle k controller karta pehla use karva ma aave che..
+    aetle request parameter ae pehle laj validate kri dey che...and jo 
+    valid hoi toj aagad jva dey che..naito reqest ne aagad ni jva deyche...
